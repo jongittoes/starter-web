@@ -23,4 +23,4 @@ Please fork this repo and then issue a pull request for review
 Sample website with plenty of files for demos
 
 ### Copyright
-2020 Git.training
+2020 Git.training. All rights reserved.
