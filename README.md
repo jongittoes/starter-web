@@ -13,6 +13,10 @@ and another line
 
 This is a simple web project
 
+## How to contribute
+
+Please fork this repo and then issue a pull request for review
+
 ## Purpose
 
 Sample website with plenty of files for demos
